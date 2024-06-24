@@ -5,5 +5,5 @@ This repository contains the end-to-end training script for our project, designe
 To facilitate a smoother introduction to our training pipeline, we have provided a Kaggle notebook. This notebook will help you quickly understand and get started with the training process.
 
 *Disclaimer*
-Slight performance mismatch may occur due to the usage of different GPUs (P100 vs. A100), different versions of CUDA, and PyTorch.
+Despite using exact same random seed, slight performance mismatch may occur due to the usage of different GPUs (P100 vs. A100), different versions of CUDA, and PyTorch.
 
